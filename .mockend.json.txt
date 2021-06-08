@@ -1,0 +1,276 @@
+{
+   shops[
+      {
+         ShopNameShop 1,
+         Availablefalse,
+         TenantAlabd,
+         Area128.44,
+         Floor1st floor,
+         MinPrice10,
+         MaxPrice20,
+         Activites[
+            Pharmacy,
+            Cafe,
+            Restaurant,
+            Bakery
+         ],
+         ColorCode,
+         PopularityRating3
+      },
+      {
+         ShopNameShop 2,
+         Availablefalse,
+         TenantDiamond,
+         Area112.69,
+         Floor1st floor,
+         MinPrice15,
+         MaxPrice30,
+         Activites[
+            Pharmacy,
+            Cafe,
+            Restaurant,
+            Bakery
+         ],
+         ColorCode,
+         PopularityRating4
+      },
+      {
+         ShopNameShop 3,
+         Availablefalse,
+         TenantSimonds,
+         Area117.12,
+         Floor1st floor,
+         MinPrice20,
+         MaxPrice35,
+         Activites[
+            Pharmacy,
+            Cafe,
+            Restaurant,
+            Bakery
+         ],
+         ColorCode,
+         PopularityRating1
+      },
+      {
+         ShopNameShop 4,
+         Availablefalse,
+         TenantAlabd,
+         Area106.39,
+         Floor1st floor,
+         MinPrice15,
+         MaxPrice30,
+         Activites[
+            Pharmacy,
+            Cafe,
+            Restaurant,
+            Bakery
+         ],
+         ColorCode,
+         PopularityRating4
+      },
+      {
+         ShopNameShop 5,
+         Availablefalse,
+         TenantAlabd,
+         Area108.18,
+         Floor1st floor,
+         MinPrice15,
+         MaxPrice30,
+         Activites[
+            Pharmacy,
+            Cafe,
+            Restaurant,
+            Bakery
+         ],
+         ColorCode,
+         PopularityRating4
+      },
+      {
+         ShopNameShop 6,
+         Availablefalse,
+         TenantAlabd,
+         Area94.85,
+         Floor1st floor,
+         MinPrice15,
+         MaxPrice30,
+         Activites[
+            Pharmacy,
+            Cafe,
+            Restaurant,
+            Bakery
+         ],
+         ColorCode,
+         PopularityRating4
+      },
+      {
+         ShopNameShop 7,
+         Availablefalse,
+         TenantAlabd,
+         Area115.42,
+         Floor1st floor,
+         MinPrice15,
+         MaxPrice30,
+         Activites[
+            Pharmacy,
+            Cafe,
+            Restaurant,
+            Bakery
+         ],
+         ColorCode,
+         PopularityRating4
+      },
+      {
+         ShopNameShop 8,
+         Availablefalse,
+         TenantAlabd,
+         Area112.17,
+         Floor1st floor,
+         MinPrice15,
+         MaxPrice30,
+         Activites[
+            Pharmacy,
+            Cafe,
+            Restaurant,
+            Bakery
+         ],
+         ColorCode,
+         PopularityRating4
+      },
+      {
+         ShopNameShop 9,
+         Availablefalse,
+         TenantAlabd,
+         Area181.02,
+         Floor1st floor,
+         MinPrice15,
+         MaxPrice30,
+         Activites[
+            Pharmacy,
+            Cafe,
+            Restaurant,
+            Bakery
+         ],
+         ColorCode,
+         PopularityRating4
+      },
+      {
+         ShopNameShop 10,
+         Availablefalse,
+         TenantH&M,
+         Area424.92,
+         Floor1st floor,
+         MinPrice15,
+         MaxPrice30,
+         Activites[
+            Pharmacy,
+            Cafe,
+            Restaurant,
+            Bakery
+         ],
+         ColorCode,
+         PopularityRating4
+      },
+      {
+         ShopNameShop 11,
+         Availablefalse,
+         TenantAlabd,
+         Area90.27,
+         Floor1st floor,
+         MinPrice15,
+         MaxPrice30,
+         Activites[
+            Pharmacy,
+            Cafe,
+            Restaurant,
+            Bakery
+         ],
+         ColorCode,
+         PopularityRating4
+      },
+      {
+         ShopNameShop 12,
+         Availablefalse,
+         TenantAlabd,
+         Area118,
+         Floor1st floor,
+         MinPrice15,
+         MaxPrice30,
+         Activites[
+            Pharmacy,
+            Cafe,
+            Restaurant,
+            Bakery
+         ],
+         ColorCode,
+         PopularityRating4
+      },
+      {
+         ShopNameShop 13,
+         Availablefalse,
+         TenantAlabd,
+         Area78.20,
+         Floor1st floor,
+         MinPrice15,
+         MaxPrice30,
+         Activites[
+            Pharmacy,
+            Cafe,
+            Restaurant,
+            Bakery
+         ],
+         ColorCode,
+         PopularityRating4
+      },
+      {
+         ShopNameShop 14,
+         Availablefalse,
+         TenantAlabd,
+         Area124.82,
+         Floor1st floor,
+         MinPrice15,
+         MaxPrice30,
+         Activites[
+            Pharmacy,
+            Cafe,
+            Restaurant,
+            Bakery
+         ],
+         ColorCode,
+         PopularityRating4
+      },
+      {
+         ShopNameShop 15,
+         Availablefalse,
+         TenantAlabd,
+         Area124.08,
+         Floor1st floor,
+         MinPrice15,
+         MaxPrice30,
+         Activites[
+            Pharmacy,
+            Cafe,
+            Restaurant,
+            Bakery
+         ],
+         ColorCode,
+         PopularityRating4
+      },
+      {
+         ShopNameShop 16,
+         Availablefalse,
+         TenantAlabd,
+         Area119.74,
+         Floor1st floor,
+         MinPrice15,
+         MaxPrice30,
+         Activites[
+            Pharmacy,
+            Cafe,
+            Restaurant,
+            Bakery
+         ],
+         ColorCode,
+         PopularityRating4
+      }
+   ]
+}
