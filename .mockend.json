@@ -1,15 +1,8 @@
 {
-   "shops":[
-      {
-         "ShopName": "string",
-         "Available": "boolean",
-         "Tenant": "string",
-         "Area": "string",
-         "Floor": "string",
-         "MinPrice": "string",
-         "MaxPrice": "string",
-         "PopularityRating": "int"
-}
-      }
-   ]
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date"
+  }
 }
