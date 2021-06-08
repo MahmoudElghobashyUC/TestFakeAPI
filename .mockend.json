@@ -1,8 +1,11 @@
 {
+"Shops":
+[
   "Shop": {
     "ShopName": "string",
     "Available": "boolean",
     "Tenant": "string",
     "Area": "string"
   }
+]
 }
