@@ -8,7 +8,7 @@
          "Floor": "string",
          "MinPrice": "string",
          "MaxPrice": "string",
-         "PopularityRating":3
+         "PopularityRating": "int"
 }
       }
    ]
